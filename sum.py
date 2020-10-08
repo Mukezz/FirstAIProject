@@ -3,6 +3,6 @@ print("hello world")
 number1 = input()
 number2 = input()
 
-s = int(number1) + int(number2)
+s = (int(number1) + int(number2))/2
 
-print("Sum of two numbers : " + str(s))
+print("Average of two numbers : " + str(s))
