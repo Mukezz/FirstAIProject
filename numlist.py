@@ -5,4 +5,4 @@ if listNum[0] == listNum[-1]:
 else:
     print("Result is False")
 
-for i in list --> CHANGES ADDED FROM GITHUB
+for i in list --> CHANGES ADDED FROM GITHUB --> Branch Testing
